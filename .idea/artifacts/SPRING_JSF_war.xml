@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SPRING-JSF:war">
+    <output-path>$PROJECT_DIR$/SPRING-JSF/target</output-path>
+    <root id="archive" name="SPRING-JSF-CONFIG2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SPRING-JSF:war exploded" />
+    </root>
+  </artifact>
+</component>

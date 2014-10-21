@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SPRING-JSF-CONFIG:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SPRING_JSF_CONFIG_war_exploded2</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SPRING-JSF-CONFIG/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SPRING-JSF-CONFIG" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

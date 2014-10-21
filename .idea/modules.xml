@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SPRING-ANNOTATION-CONFIG/SPRING-ANNOTATION-CONFIG.iml" filepath="$PROJECT_DIR$/SPRING-ANNOTATION-CONFIG/SPRING-ANNOTATION-CONFIG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPRING-JPA-CONNECTOR/SPRING-JPA-CONNECTOR.iml" filepath="$PROJECT_DIR$/SPRING-JPA-CONNECTOR/SPRING-JPA-CONNECTOR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPRING-JSF/SPRING-JSF.iml" filepath="$PROJECT_DIR$/SPRING-JSF/SPRING-JSF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPRING-JSF-JPA/SPRING-JSF-JPA.iml" filepath="$PROJECT_DIR$/SPRING-JSF-JPA/SPRING-JSF-JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPRING-SCHEDULE-JOB/SPRING-SCHEDULE-JOB.iml" filepath="$PROJECT_DIR$/SPRING-SCHEDULE-JOB/SPRING-SCHEDULE-JOB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPRING-TUTORIAL.iml" filepath="$PROJECT_DIR$/SPRING-TUTORIAL.iml" />
+    </modules>
+  </component>
+</project>
+
